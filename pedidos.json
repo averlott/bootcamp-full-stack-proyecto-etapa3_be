@@ -1,0 +1,85 @@
+[
+  {
+    "id": "1",
+    "fyh": "15/11/2025, 20:10:37",
+    "pedido": [
+      {
+        "nombre": "Kiwi",
+        "precio": 4500,
+        "stock": 91,
+        "unidad": "kg",
+        "marca": "NA",
+        "categoria": "Frutas",
+        "descripcion": "Kiwi de pulpa verde y sabor ligeramente ácido. Rico en vitamina C.",
+        "imagen": "./images/kiwi.jpeg",
+        "envio": false,
+        "id": "5",
+        "cantidad": 2
+      },
+      {
+        "nombre": "Mandarina",
+        "precio": 1699,
+        "stock": 82,
+        "unidad": "kg",
+        "marca": "NA",
+        "categoria": "Gorgeous Steel Ball",
+        "descripcion": "Mandarinas jugosas y fáciles de pelar, ideal para un snack.",
+        "imagen": "./images/mandarina.jpeg",
+        "envio": false,
+        "id": "7",
+        "cantidad": 3
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "fyh": "16/11/2025, 20:11:26",
+    "pedido": [
+      {
+        "nombre": "prueba",
+        "precio": 1,
+        "stock": 3,
+        "marca": "NA",
+        "categoria": "Frutas",
+        "descripcion": "prueba",
+        "imagen": "prueba",
+        "envio": true,
+        "unidad": "kg",
+        "id": "9",
+        "cantidad": 1
+      },
+      {
+        "nombre": "Frutilla",
+        "precio": 10499,
+        "stock": 46,
+        "unidad": "kg",
+        "marca": "NA",
+        "categoria": "Frutas",
+        "descripcion": "Frutillas frescas y dulces.",
+        "imagen": "./images/frutilla.jpeg",
+        "envio": false,
+        "id": "6",
+        "cantidad": 1
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "fyh": "16/11/2025, 20:36:34",
+    "pedido": [
+      {
+        "nombre": "Pera Williams",
+        "precio": 1990,
+        "stock": 9,
+        "unidad": "kg",
+        "marca": "NA",
+        "categoria": "Frutas",
+        "descripcion": "Peras dulces y aromáticas, ideales para postres o ensaladas.",
+        "imagen": "./images/pera.jpeg",
+        "envio": false,
+        "id": "4",
+        "cantidad": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,110 @@
+[
+	{
+		"nombre": "Manzana",
+		"precio": 1990,
+		"stock": 62,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Manzanas rojas jugosas.",
+		"imagen": "./images/manzana.jpeg",
+		"envio": false,
+		"id": "1"
+	},
+	{
+		"nombre": "Banana",
+		"precio": 2390,
+		"stock": 58,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Banana de Ecuador, de textura cremosa y dulce sabor.",
+		"imagen": "./images/banana.jpeg",
+		"envio": false,
+		"id": "2"
+	},
+	{
+		"nombre": "Naranja de Jugo",
+		"precio": 1290,
+		"stock": 47,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Naranjas jugosas, perfectas para exprimir y refrescarse.",
+		"imagen": "./images/naranja.jpeg",
+		"envio": false,
+		"id": "3"
+	},
+	{
+		"nombre": "Pera Williams",
+		"precio": 1990,
+		"stock": 9,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Peras dulces y aromáticas, ideales para postres o ensaladas.",
+		"imagen": "./images/pera.jpeg",
+		"envio": false,
+		"id": "4"
+	},
+	{
+		"nombre": "Kiwi",
+		"precio": 4500,
+		"stock": 91,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Kiwi de pulpa verde y sabor ligeramente ácido. Rico en vitamina C.",
+		"imagen": "./images/kiwi.jpeg",
+		"envio": false,
+		"id": "5"
+	},
+	{
+		"nombre": "Frutilla",
+		"precio": 10499,
+		"stock": 46,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Frutillas frescas y dulces.",
+		"imagen": "./images/frutilla.jpeg",
+		"envio": false,
+		"id": "6"
+	},
+	{
+		"nombre": "Mandarina",
+		"precio": 1699,
+		"stock": 82,
+		"unidad": "kg",
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Mandarinas jugosas y fáciles de pelar, ideal para un snack.",
+		"imagen": "./images/mandarina.jpeg",
+		"envio": false,
+		"id": "7"
+	},
+	{
+		"nombre": "Uvas",
+		"precio": 7790,
+		"stock": 40,
+		"marca": "NA",
+		"categoria": "Frutas",
+		"descripcion": "Uvas frescas, sin semillas. Ideales como snack o para ensaladas.",
+		"imagen": "./images/uva.jpeg",
+		"envio": true,
+		"unidad": "kg",
+		"id": "8"
+	},
+	{
+		"nombre": "pruebanuevamente",
+		"precio": 56.14,
+		"stock": 44,
+		"unidad": "kg",
+		"marca": "Na",
+		"categoria": "a",
+		"descripcion": "b",
+		"imagen": "c",
+		"envio": false,
+		"id": "11"
+	}
+]
