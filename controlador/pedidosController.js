@@ -37,6 +37,12 @@ class Controlador {
         try {
             const datos = req.body
             //console.log('datos',datos)
+            //console.log('prefItems.body.back_urls.success',datos.prefItems.body.back_urls.success)
+            //console.log('prefItems.body.back_urls.pending',datos.prefItems.body.back_urls.pending)
+            //console.log('prefItems.body.back_urls.failure',datos.prefItems.body.back_urls.failure)
+            /*for (const key in datos.prefItems.body) {
+            console.log(key, datos.prefItems.body[key]);
+            }*/
             const preferenceId = await this.#servicio.createPreference(datos)
             //console.log('preference', preferenceId)
             res.json(preferenceId)
